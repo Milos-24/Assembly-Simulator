@@ -1,0 +1,47 @@
+Primjer 1:
+labela1:
+labela2:
+labela3:
+add rax 1
+labela1:
+cmp rax rbx
+je labela1
+jne labela2
+cmp rax rbx
+je labela4
+
+Primjer 2:
+add rax 1
+a:
+add rax 1
+cmp rax rbx
+jl a
+
+Primjer 3:
+add rax 9223372036854775807
+add rax 9223372036854775807
+add rax 9223372036854775807
+add rax 9223372036854775807
+add rax 9223372036854775807
+
+Primjer 4:
+ADD RAX 1
+NEKALABELA:
+ADD RBX 2
+CMP RAX RBX
+JL NEKANOVALABELA
+ADD RCX -1
+NEKANOVALABELA:
+OR "A0" 16
+MOV RCX "A0"
+CMP 16 "A0"
+JE NEKALABELA
+
+Primjer 5:
+ADD RAX 1
+ADD RBX -2
+CMP RAX RBX
+JL VAZI
+MOV "A0" 23
+VAZI:
+MOV "A1" 32
