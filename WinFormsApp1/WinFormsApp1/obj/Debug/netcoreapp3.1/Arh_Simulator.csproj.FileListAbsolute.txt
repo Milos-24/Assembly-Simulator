@@ -1,0 +1,16 @@
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Arh_Simulator.exe
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Arh_Simulator.deps.json
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Arh_Simulator.runtimeconfig.json
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Arh_Simulator.runtimeconfig.dev.json
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Arh_Simulator.dll
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Arh_Simulator.pdb
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Arh_Simulator.csproj.AssemblyReference.cache
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Arh_Simulator.csproj.GenerateResource.cache
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Arh_Simulator.AssemblyInfoInputs.cache
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Arh_Simulator.AssemblyInfo.cs
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Arh_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Arh_Simulator.dll
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Arh_Simulator.pdb
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Arh_Simulator.genruntimeconfig.cache
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Arh_Simulator.Simulator.resources
+C:\Users\WIN10\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Arh_Simulator.GeneratedMSBuildEditorConfig.editorconfig
